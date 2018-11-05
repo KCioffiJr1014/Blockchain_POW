@@ -5,6 +5,4 @@ public class Transaction {
     private int index;
 
 
-
-
 }
